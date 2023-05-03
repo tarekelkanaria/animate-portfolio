@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import AnimatedLetters from '../../components/UI/AnimatedLetters';
+import Logo from './logo';
 import logoTitle from '../../assets/images/logo-k.png';
 import './index.scss';
 
@@ -32,9 +33,9 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="container home-page">
+    <article className="container home-page">
       <div className="text-zone">
-        <h1>
+        <h1 className="title">
           <span className={letterClass}>H</span>
           <span className={`${letterClass} _12`}>i,</span>
           <br />
@@ -60,7 +61,8 @@ const Home = () => {
           Contact Me
         </Link>
       </div>
-    </div>
+      <Logo />
+    </article>
   );
 };
 
