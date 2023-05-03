@@ -8,8 +8,8 @@ import {
   FaTwitter,
   FaUser,
 } from 'react-icons/fa';
-import logo from '../../assets/images/logo-k.png';
-import logoSubtitle from '../../assets/images/logok-sub.png';
+import logo from '../../../assets/images/logo-k.png';
+import logoSubtitle from '../../../assets/images/logok-sub.png';
 import './index.scss';
 
 const SideBar = () => {
