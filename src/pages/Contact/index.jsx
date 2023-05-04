@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import Loader from 'react-loaders';
+import { ToastContainer } from 'react-toastify';
 import AnimatedLetters from '../../components/UI/AnimatedLetters';
+import ContactForm from '../../components/ContactForm';
 import './index.scss';
 
 const Contact = () => {
@@ -32,42 +34,11 @@ const Contact = () => {
             using the form below.
           </p>
           <div className="contact-form">
-            <form>
-              <ul>
-                <li className="half">
-                  <input type="text" name="name" placeholder="Name" required />
-                </li>
-                <li className="half">
-                  <input
-                    type="email"
-                    name="email"
-                    placeholder="Email"
-                    required
-                  />
-                </li>
-                <li>
-                  <input
-                    type="text"
-                    placeholder="Subject"
-                    name="subject"
-                    required
-                  />
-                </li>
-                <li>
-                  <textarea
-                    name="message"
-                    placeholder="Message"
-                    required
-                  ></textarea>
-                </li>
-                <li>
-                  <button className="flat-btn">Send</button>
-                </li>
-              </ul>
-            </form>
+            <ContactForm />
           </div>
         </div>
       </article>
+      <ToastContainer position="bottom-left" />
       <Loader type="pacman" />
     </>
   );

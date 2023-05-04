@@ -1,0 +1,80 @@
+@import 'loaders.css/src/animations/ball-scale-multiple.scss';
+
+ul {
+  padding: 0;
+  margin: 0;
+  li {
+    padding: 0;
+    margin: 0;
+    display: block;
+    margin-bottom: 1rem;
+    position: relative;
+    overflow: hidden;
+    opacity: 0;
+    animation: fadeInUp 2s 2s forwards;
+    clear: both;
+
+    input[type='text'],
+    input[type='email'],
+    textarea {
+      width: 100%;
+      border: 0;
+      background: #115173;
+      font-size: 1.6rem;
+      color: #fff;
+      box-sizing: border-box;
+      outline: none;
+    }
+    input[type='text'],
+    input[type='email'] {
+      padding: 0 2rem;
+      height: 5rem;
+    }
+    textarea {
+      padding: 2rem;
+      min-height: 15rem;
+      resize: vertical;
+    }
+
+    .flat-btn {
+      display: block;
+      color: #ffd700;
+      background: 0 0;
+      font-size: 1.1rem;
+      letter-spacing: 0.3rem;
+      text-decoration: none;
+      padding: 0.8rem 1rem;
+      border: 1px solid #ffd700;
+      float: right;
+      border-radius: 0.4rem;
+      cursor: pointer;
+      &:hover {
+        background-color: #3498db;
+      }
+      .loader-active {
+        width: 2.2rem;
+        height: 1rem;
+        position: static;
+        animation: none;
+      }
+    }
+    .error-text {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      font-size: 1.6rem;
+      font-weight: 400;
+      color: rgb(203, 47, 47);
+    }
+  }
+  li.half {
+    width: 49%;
+    margin-left: 2%;
+    float: left;
+    clear: none;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}

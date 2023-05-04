@@ -1,7 +1,8 @@
 $primary-color: #ffd700;
 
 @import 'animate.css';
-@import '../../contribute/loaders.css/src/animations/pacman.scss';
+@import 'react-toastify/dist/ReactToastify.min.css';
+@import 'loaders.css/src/animations/pacman.scss';
 
 @font-face {
   font-family: 'Helvetica Neue';
