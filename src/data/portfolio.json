@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Amazon clone",
+      "description": "Static E-commerce web page like amazon homepage",
+      "skills": ["HTML5", "CSS3"],
+      "url": "https://tarekelkanaria.github.io/amazon-clone/",
+      "image": "/src/assets/images/portfolio/amazon-clone.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Bet365 clone",
+      "description": "Static web page like bet365 homepage",
+      "skills": ["HTML5", "CSS3"],
+      "url": "https://tarekelkanaria.github.io/bet365/",
+      "image": "/src/assets/images/portfolio/bet365.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "1xBet clone",
+      "description": "Static web page like 1xbet homepage",
+      "skills": ["HTML5", "CSS3"],
+      "url": "https://tarekelkanaria.github.io/1xbet-page/",
+      "image": "/src/assets/images/portfolio/1xbet.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Roblox clone",
+      "description": "Static web page like roblox homepage",
+      "skills": ["HTML5", "CSS3"],
+      "url": "https://tarekelkanaria.github.io/roblox/",
+      "image": "/src/assets/images/portfolio/roblox.jpeg"
+    }
+  ],
+  "previous-works": [
+    {
+      "id": 1,
+      "title": "Meetups",
+      "description": "A web app allows users to add meetup data and save it in a database using Next.js and MongoDB",
+      "skills": ["Next.js", "React", "MongoDB", "JavaScript", "CSS"],
+      "url": "https://meetups-elkanaria.vercel.app/",
+      "image": "/src/assets/images/portfolio/meetups.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Food Order",
+      "description": "A web app displays some of the existing meals through Firebase real-time database and the user can order any count of meals with cart functionality and save his purchases to the cart database.",
+      "skills": ["React", "JavaScript", "CSS", "Bootstrap", "Firebase"],
+      "url": "https://food-order-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/food-order.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "React Paginate",
+      "description": "A Web page retrieves data from fake API with Pagination function and optimized search functionality.",
+      "skills": ["React", "JavaScript", "CSS", "Bootstrap", "API", "HTML"],
+      "url": "https://react-paginate-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/react-paginate.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Tasks App",
+      "description": "A web app uses a valid form to save the text of the task in Firebase real-time database and the user can add, update or delete the task.",
+      "skills": ["React", "JavaScript", "CSS", "Firebase", "HTML"],
+      "url": "https://tasks-app-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/tasks-app.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Random Users",
+      "description": "A web page displays a list of users using fake API with the ability to search through the list by name.",
+      "skills": ["React", "JavaScript", "CSS", "API", "HTML"],
+      "url": "https://random-users-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/random-users.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Expenses Tracker",
+      "description": "A web app to track all the expenses along with date starting form 1/1/2020 and store it in the app with chart bars.",
+      "skills": ["React", "JavaScript", "CSS", "HTML"],
+      "url": "https://expenses-tracker-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/expenses-tracker.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Movies List",
+      "description": "A web app uses a valid form to save the data of movies in Firebase real-time database and the user can add, update or delete the movie.",
+      "skills": ["React", "JavaScript", "Bootstrap", "Firebase", "CSS", "HTML"],
+      "url": "https://movies-list-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/movies-list.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Landing page vue",
+      "description": "A web landing page using Vue.js framework with scroll and route functionality.",
+      "skills": ["Vue.js", "JavaScript", "CSS", "HTML"],
+      "url": "https://landing-page-vue-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/landing-page-vue.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "API Vue",
+      "description": "A web page retrieves data From fake API using Vue.js framework",
+      "skills": ["Vue.js", "JavaScript", "API", "CSS", "HTML"],
+      "url": "https://apiplaceholder-vue-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/apiplaceholder-vue.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Quizzical App",
+      "description": "A web app displays different questions from fake API with multiple-choice answers.",
+      "skills": ["React", "JavaScript", "API", "CSS", "HTML"],
+      "url": "https://quizzical-app-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/quizzical-app.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Currency Converter",
+      "description": "A web app to convert currency between different countries.",
+      "skills": ["JavaScript", "API", "CSS", "HTML"],
+      "url": "https://currency-converter-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/currency-converter.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Hangman Game",
+      "description": "A web game about guessing the right letters to construct the required word",
+      "skills": ["JavaScript", "CSS", "HTML"],
+      "url": "https://tarekelkanaria.github.io/frontend-practices/hangman-game/index.html",
+      "image": "/src/assets/images/portfolio/hangman-game.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Pomodoro Timer",
+      "description": "A web timer to calculate the spent time in work and in break ",
+      "skills": ["JavaScript", "CSS", "HTML"],
+      "url": "https://tarekelkanaria.github.io/frontend-practices/pomodoro-timer/index.html",
+      "image": "/src/assets/images/portfolio/pomodoro-timer.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "Form Validation",
+      "description": "Validating forms in React.",
+      "skills": ["React", "JavaScript", "CSS", "HTML"],
+      "url": "https://form-validation-elkanaria.netlify.app/",
+      "image": "/src/assets/images/portfolio/form-validation.jpeg"
+    }
+  ]
+}

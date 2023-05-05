@@ -2,3 +2,45 @@
   width: 100%;
   margin-top: 2rem;
 }
+.info-map {
+  position: absolute;
+  top: 8rem;
+  right: 30%;
+  background-color: #000;
+  z-index: 4;
+  width: 20.6rem;
+  padding: 2rem;
+  color: #fff;
+  font-family: 'Helvetica';
+  font-size: 1.7rem;
+  font-weight: 300;
+  opacity: 0;
+  animation: fadeIn 1s 1.5s forwards;
+  a {
+    display: block;
+    font-size: 1.6rem;
+    color: #ffd700;
+    padding-top: 2rem;
+  }
+}
+.map-wrapper {
+  background-color: rgba(8, 253, 216, 0.1);
+  float: right;
+  width: 53%;
+  height: 100%;
+}
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  opacity: 0;
+  animation: backInRight 1s 1.2s forwards;
+}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background-color: #022c43;
+}
+.leaflet-popup-content {
+  font-size: 1.6rem;
+  color: #ffd700;
+}

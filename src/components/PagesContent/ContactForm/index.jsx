@@ -83,7 +83,7 @@ const ContactForm = () => {
                 </p>
               </li>
               <li>
-                <button className="flat-btn">
+                <button className="flat-btn" disabled={isSubmitting}>
                   {isSubmitting ? (
                     <Loader
                       type="ball-scale-multiple"

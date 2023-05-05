@@ -5,11 +5,12 @@
   .tags {
     position: absolute;
     bottom: 2rem;
-    left: 12rem;
+    left: 10rem;
     opacity: 0.6;
     font-size: 1.8rem;
     color: #ffd700;
     font-family: 'La Belle Aurore';
+    z-index: 1;
   }
   .top-tags {
     bottom: auto;
@@ -34,7 +35,8 @@
     animation-delay: 1s;
   }
   .about-page,
-  .contact-page {
+  .contact-page,
+  .portfolio-page {
     .text-zone {
       position: absolute;
       left: 10%;
@@ -45,41 +47,6 @@
       display: table-cell;
       max-height: 90%;
 
-      .title {
-        font-size: 5.3rem;
-        font-family: 'Coolvetica';
-        color: #ffd700;
-        font-weight: 400;
-        margin-top: 0;
-        position: relative;
-        margin-bottom: 4rem;
-        left: 1rem;
-
-        &::before,
-        &::after {
-          font-family: 'La Belle Aurore';
-          font-size: 1.8rem;
-          position: absolute;
-          opacity: 0.6;
-          line-height: 1.8rem;
-        }
-        &::before {
-          content: '<h1>';
-          left: -1rem;
-          margin-top: -1rem;
-        }
-        &::after {
-          content: '</h1>';
-          left: -3rem;
-          bottom: -2rem;
-          margin-left: 2rem;
-        }
-        .text-animate-hover {
-          &:hover {
-            color: #fff;
-          }
-        }
-      }
       > p {
         font-size: 1.3rem;
         color: #fff;
@@ -99,6 +66,41 @@
         }
         &:nth-of-type(4) {
           animation-delay: 1.4s;
+        }
+      }
+    }
+    .title {
+      font-size: 5.3rem;
+      font-family: 'Coolvetica';
+      color: #ffd700;
+      font-weight: 400;
+      margin-top: 0;
+      position: relative;
+      margin-bottom: 4rem;
+      left: 1rem;
+
+      &::before,
+      &::after {
+        font-family: 'La Belle Aurore';
+        font-size: 1.8rem;
+        position: absolute;
+        opacity: 0.6;
+        line-height: 1.8rem;
+      }
+      &::before {
+        content: '<h1>';
+        left: -1rem;
+        margin-top: -1rem;
+      }
+      &::after {
+        content: '</h1>';
+        left: -3rem;
+        bottom: -2rem;
+        margin-left: 2rem;
+      }
+      .text-animate-hover {
+        &:hover {
+          color: #fff;
         }
       }
     }

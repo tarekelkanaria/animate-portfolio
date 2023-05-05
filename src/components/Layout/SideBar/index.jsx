@@ -1,6 +1,7 @@
 import { Link, NavLink } from 'react-router-dom';
 import {
   FaEnvelope,
+  FaFolderOpen,
   FaGithub,
   FaHome,
   FaLinkedin,
@@ -34,6 +35,14 @@ const SideBar = () => {
           end
         >
           <FaUser fontSize="2.5rem" />
+        </NavLink>
+        <NavLink
+          className={`${({ isActive }) =>
+            isActive ? 'active' : ''} portfolio-link`}
+          to="/portfolio"
+          end
+        >
+          <FaFolderOpen fontSize="2.5rem" />
         </NavLink>
         <NavLink
           className={`${({ isActive }) =>

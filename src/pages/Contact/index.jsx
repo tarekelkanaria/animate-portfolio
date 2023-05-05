@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react';
 import Loader from 'react-loaders';
 import { ToastContainer } from 'react-toastify';
+import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 import AnimatedLetters from '../../components/UI/AnimatedLetters';
-import ContactForm from '../../components/ContactForm';
+import ContactForm from '../../components/PagesContent/ContactForm';
 import './index.scss';
 
 const Contact = () => {
@@ -36,6 +37,22 @@ const Contact = () => {
           <div className="contact-form">
             <ContactForm />
           </div>
+        </div>
+        <address className="info-map">
+          Tarek Elkanaria,
+          <br />
+          Alexandria,
+          <br />
+          Egypt. <br />
+          <a href="mailto:tarekelkanaria@gmail.com">tarekelkanaria@gmail.com</a>
+        </address>
+        <div className="map-wrapper">
+          <MapContainer center={[31.226944, 29.971599]} zoom={13}>
+            <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+            <Marker position={[31.226944, 29.971599]}>
+              <Popup>Elkanaria lives here :)</Popup>
+            </Marker>
+          </MapContainer>
         </div>
       </article>
       <ToastContainer position="bottom-left" />

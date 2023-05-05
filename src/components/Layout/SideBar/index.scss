@@ -1,6 +1,6 @@
 .nav-bar {
   background: #181818;
-  width: 6rem;
+  width: 7rem;
   height: 100%;
   position: absolute;
   top: 0;
@@ -59,14 +59,17 @@
       }
       &:first-child {
         &::after {
-          content: 'Home';
+          content: 'HOME';
         }
       }
       &.about-link::after {
-        content: 'About';
+        content: 'ABOUT';
       }
       &.contact-link::after {
-        content: 'Contact';
+        content: 'CONTACT';
+      }
+      &.portfolio-link::after {
+        content: 'PORTFOLIO';
       }
       &:hover {
         color: #fdd700;
