@@ -1,6 +1,6 @@
 .nav-bar {
   background: #181818;
-  width: 7rem;
+  width: 9rem;
   height: 100%;
   position: absolute;
   top: 0;
@@ -45,6 +45,12 @@
       svg {
         color: #4d4d4e;
       }
+      &.certificates-link svg {
+        fill: #4d4d4e;
+        path {
+          stroke: rgba(0, 0, 0, 0.4);
+        }
+      }
       &::after {
         content: '';
         display: block;
@@ -65,11 +71,14 @@
       &.about-link::after {
         content: 'ABOUT';
       }
-      &.contact-link::after {
-        content: 'CONTACT';
-      }
       &.portfolio-link::after {
         content: 'PORTFOLIO';
+      }
+      &.certificates-link::after {
+        content: 'CERTIFICATES';
+      }
+      &.contact-link::after {
+        content: 'CONTACT';
       }
       &:hover {
         color: #fdd700;
@@ -85,6 +94,12 @@
       &.active {
         svg {
           color: #fdd700;
+        }
+      }
+
+      &.active.certificates-link {
+        svg {
+          fill: #fdd700;
         }
       }
     }

@@ -10,7 +10,7 @@ import {
   FaTwitter,
   FaUser,
 } from 'react-icons/fa';
-import { GrClose } from 'react-icons/gr';
+import { GrClose, GrCertificate } from 'react-icons/gr';
 import logo from '../../../assets/images/logo-k.png';
 import logoSubtitle from '../../../assets/images/logok-sub.png';
 import './index.scss';
@@ -50,6 +50,15 @@ const SideBar = () => {
           end
         >
           <FaFolderOpen fontSize="2.5rem" />
+        </NavLink>
+        <NavLink
+          onClick={() => setShowNav(false)}
+          className={`${({ isActive }) =>
+            isActive ? 'active' : ''} certificates-link`}
+          to="/certificates"
+          end
+        >
+          <GrCertificate fontSize="2.5rem" />
         </NavLink>
         <NavLink
           onClick={() => setShowNav(false)}

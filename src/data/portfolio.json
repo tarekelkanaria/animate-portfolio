@@ -146,5 +146,121 @@
       "url": "https://form-validation-elkanaria.netlify.app/",
       "image": "/src/assets/images/portfolio/form-validation.jpeg"
     }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Information Technology Institute",
+      "description": "Front End Development Track",
+      "skills": [
+        "Software Development Fundamentals",
+        " Frontend Web Development Technologies"
+      ],
+      "url": "https://drive.google.com/file/d/1cBfegYqrbau-pBEaKv2qSpgFZLa5vPr4/view",
+      "image": "/src/assets/images/portfolio/front-end-development-iti.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Meta Front-End Developer - Coursera",
+      "description": "Advanced React",
+      "skills": ["React", "Jest", "Chakra UI", "Formik"],
+      "url": "https://www.coursera.org/account/accomplishments/certificate/AMDXJX94C488",
+      "image": "/src/assets/images/portfolio/advanced-react-meta-coursera.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Web Development - Udacity",
+      "description": "Advanced Full-Stack Web Development Nanodegree Program",
+      "skills": [
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "database",
+        "API",
+        "Jasmine"
+      ],
+      "url": "https://graduation.udacity.com/confirm/NQVAWDER",
+      "image": "/src/assets/images/portfolio/advanced-full-stack-udacity.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Meta Front-End Developer - Coursera",
+      "description": "React Basics",
+      "skills": ["React", "context API", "custom hooks"],
+      "url": "https://www.coursera.org/account/accomplishments/certificate/XUBLV3SYTD2M",
+      "image": "/src/assets/images/portfolio/react-basics-meta-coursera.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Meta Front-End Developer - Coursera",
+      "description": "HTML and CSS in depth",
+      "skills": ["HTML5", "CSS3"],
+      "url": "https://www.coursera.org/account/accomplishments/certificate/4HCZDAZNQ56F",
+      "image": "/src/assets/images/portfolio/html-and-css-in-depth-meta-coursera.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Meta Front-End Developer - Coursera",
+      "description": "Programming with JavaScript",
+      "skills": ["JavaScript"],
+      "url": "https://www.coursera.org/account/accomplishments/certificate/EJGTFL29UTZ9",
+      "image": "/src/assets/images/portfolio/programming-with-javascript-meta-coursera.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Meta Front-End Developer - Coursera",
+      "description": "Version Control",
+      "skills": ["Git", "Github"],
+      "url": "https://www.coursera.org/account/accomplishments/certificate/DVYUE34X6XRL",
+      "image": "/src/assets/images/portfolio/version-control-coursera.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Meta Front-End Developer - Coursera",
+      "description": "Introduction to Front-End Development",
+      "skills": ["Frontend Web Development"],
+      "url": "https://www.coursera.org/account/accomplishments/certificate/47YBTBMNTMAY",
+      "image": "/src/assets/images/portfolio/introduction-to-front-end-coursera.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Mahara - Tech",
+      "description": "Database Fundamentals course",
+      "skills": ["database"],
+      "url": "https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1",
+      "image": "/src/assets/images/portfolio/database-mahara-tech.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Mahara - Tech",
+      "description": "JavaScript course",
+      "skills": ["JavaScript"],
+      "url": "https://maharatech.gov.eg/mod/customcert/view.php?id=7660&downloadown=1",
+      "image": "/src/assets/images/portfolio/javascript-mahara-tech.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Mahara - Tech",
+      "description": "HTML and CSS course",
+      "skills": ["HTML", "CSS"],
+      "url": "https://maharatech.gov.eg/mod/customcert/view.php?id=1404&downloadown=1",
+      "image": "/src/assets/images/portfolio/html-and-css-mahara-tech.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Python for Everybody Specialization - Coursera",
+      "description": "5 courses as introduction to programming with Python",
+      "skills": ["Python"],
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/EBLFQADB29EZ",
+      "image": "/src/assets/images/portfolio/python-for-everybody-coursera.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "Professional Web Development - Udacity",
+      "description": "Professional Front-End Web Development Nanodegree Program",
+      "skills": ["JavaScript", "HTML5", "CSS3"],
+      "url": "https://graduation.udacity.com/confirm/YQGGFKNU",
+      "image": "/src/assets/images/portfolio/professional-web-development-udacity.jpeg"
+    }
   ]
 }
