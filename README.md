@@ -1,5 +1,9 @@
 # Animate Portfolio
 
+## Demo Preview
+
+[Link to the Portfolio ](https://elkanaria-react-portfolio.netlify.app/)
+
 This is my portfolio to showcase my skills and experience. The web app is fully responsive, and it consists of five pages :
 
 - [x] Home Page :
@@ -37,7 +41,6 @@ Tarek Elkanaria
 - React Loaders
 - Loaders.css
 - Animate.css
-- Gsap-trial
 - EmailJs
 - Formik
 - Yup
