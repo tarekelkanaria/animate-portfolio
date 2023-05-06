@@ -32,3 +32,24 @@
     stroke-width: 1rem;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .logo-container {
+    position: relative;
+    width: 10rem;
+    height: auto;
+    top: 5rem;
+    right: 0;
+    box-sizing: border-box;
+    margin: auto;
+    left: 0;
+    svg {
+      position: absolute;
+      top: auto;
+      right: auto;
+      bottom: auto;
+      left: 0;
+      margin: auto;
+    }
+  }
+}

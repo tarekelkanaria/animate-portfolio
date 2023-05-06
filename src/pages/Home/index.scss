@@ -75,3 +75,27 @@
     }
   }
 }
+
+@media screen and (max-width: 767px) {
+  .tags,
+  .home-page h1::before,
+  .home-page h1::after {
+    display: none;
+  }
+  .home-page {
+    .text-zone {
+      position: initial;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 1rem;
+      transform: none;
+      .flat-btn {
+        display: block;
+        float: none;
+        margin: 2rem auto 0 auto;
+        width: 12.5rem;
+        text-align: center;
+      }
+    }
+  }
+}

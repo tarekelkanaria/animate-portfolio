@@ -57,7 +57,7 @@ const ContactForm = () => {
       >
         {({ isSubmitting }) => (
           <Form ref={formRef}>
-            <ul>
+            <ul className="contact">
               <li className="half">
                 <Field type="text" name="name" placeholder="Name" />
                 <p className="error-text">

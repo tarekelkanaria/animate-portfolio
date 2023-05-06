@@ -30,3 +30,18 @@
   justify-items: center;
   margin-bottom: 10rem;
 }
+
+@media screen and (max-width: 767px) {
+  .container.portfolio-page {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 2rem;
+    h1.title {
+      margin-left: 2rem;
+      margin-top: 2rem;
+    }
+    .projects-container {
+      margin-bottom: 4rem;
+    }
+  }
+}
