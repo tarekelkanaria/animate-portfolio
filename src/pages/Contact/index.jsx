@@ -47,9 +47,9 @@ const Contact = () => {
           <a href="mailto:tarekelkanaria@gmail.com">tarekelkanaria@gmail.com</a>
         </address>
         <div className="map-wrapper">
-          <MapContainer center={[31.226944, 29.971599]} zoom={13}>
+          <MapContainer center={[31.241878, 29.958756]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[31.226944, 29.971599]}>
+            <Marker position={[31.241878, 29.958756]}>
               <Popup>Elkanaria lives here :)</Popup>
             </Marker>
           </MapContainer>
