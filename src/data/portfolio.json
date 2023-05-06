@@ -6,7 +6,7 @@
       "description": "Static E-commerce web page like amazon homepage",
       "skills": ["HTML5", "CSS3"],
       "url": "https://tarekelkanaria.github.io/amazon-clone/",
-      "image": "../assets/images/portfolio/amazon-clone.jpeg"
+      "image": "../../src/assets/images/portfolio/amazon-clone.jpeg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "Static web page like bet365 homepage",
       "skills": ["HTML5", "CSS3"],
       "url": "https://tarekelkanaria.github.io/bet365/",
-      "image": "../assets/images/portfolio/bet365.jpeg"
+      "image": "../../src/assets/images/portfolio/bet365.jpeg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "description": "Static web page like 1xbet homepage",
       "skills": ["HTML5", "CSS3"],
       "url": "https://tarekelkanaria.github.io/1xbet-page/",
-      "image": "../assets/images/portfolio/1xbet.jpeg"
+      "image": "../../src/assets/images/portfolio/1xbet.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "description": "Static web page like roblox homepage",
       "skills": ["HTML5", "CSS3"],
       "url": "https://tarekelkanaria.github.io/roblox/",
-      "image": "../assets/images/portfolio/roblox.jpeg"
+      "image": "../../src/assets/images/portfolio/roblox.jpeg"
     }
   ],
   "previous-works": [
@@ -40,7 +40,7 @@
       "description": "A web app allows users to add meetup data and save it in a database using Next.js and MongoDB",
       "skills": ["Next.js", "React", "MongoDB", "JavaScript", "CSS"],
       "url": "https://meetups-elkanaria.vercel.app/",
-      "image": "../assets/images/portfolio/meetups.jpeg"
+      "image": "../../src/assets/images/portfolio/meetups.jpeg"
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "description": "A web app displays some of the existing meals through Firebase real-time database and the user can order any count of meals with cart functionality and save his purchases to the cart database.",
       "skills": ["React", "JavaScript", "CSS", "Bootstrap", "Firebase"],
       "url": "https://food-order-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/food-order.jpeg"
+      "image": "../../src/assets/images/portfolio/food-order.jpeg"
     },
     {
       "id": 3,
@@ -56,7 +56,7 @@
       "description": "A Web page retrieves data from fake API with Pagination function and optimized search functionality.",
       "skills": ["React", "JavaScript", "CSS", "Bootstrap", "API", "HTML"],
       "url": "https://react-paginate-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/react-paginate.jpeg"
+      "image": "../../src/assets/images/portfolio/react-paginate.jpeg"
     },
     {
       "id": 4,
@@ -64,7 +64,7 @@
       "description": "A web app uses a valid form to save the text of the task in Firebase real-time database and the user can add, update or delete the task.",
       "skills": ["React", "JavaScript", "CSS", "Firebase", "HTML"],
       "url": "https://tasks-app-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/tasks-app.jpeg"
+      "image": "../../src/assets/images/portfolio/tasks-app.jpeg"
     },
     {
       "id": 5,
@@ -72,7 +72,7 @@
       "description": "A web page displays a list of users using fake API with the ability to search through the list by name.",
       "skills": ["React", "JavaScript", "CSS", "API", "HTML"],
       "url": "https://random-users-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/random-users.jpeg"
+      "image": "../../src/assets/images/portfolio/random-users.jpeg"
     },
     {
       "id": 6,
@@ -80,7 +80,7 @@
       "description": "A web app to track all the expenses along with date starting form 1/1/2020 and store it in the app with chart bars.",
       "skills": ["React", "JavaScript", "CSS", "HTML"],
       "url": "https://expenses-tracker-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/expenses-tracker.jpeg"
+      "image": "../../src/assets/images/portfolio/expenses-tracker.jpeg"
     },
     {
       "id": 7,
@@ -88,7 +88,7 @@
       "description": "A web app uses a valid form to save the data of movies in Firebase real-time database and the user can add, update or delete the movie.",
       "skills": ["React", "JavaScript", "Bootstrap", "Firebase", "CSS", "HTML"],
       "url": "https://movies-list-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/movies-list.jpeg"
+      "image": "../../src/assets/images/portfolio/movies-list.jpeg"
     },
     {
       "id": 8,
@@ -96,7 +96,7 @@
       "description": "A web landing page using Vue.js framework with scroll and route functionality.",
       "skills": ["Vue.js", "JavaScript", "CSS", "HTML"],
       "url": "https://landing-page-vue-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/landing-page-vue.jpeg"
+      "image": "../../src/assets/images/portfolio/landing-page-vue.jpeg"
     },
     {
       "id": 9,
@@ -104,7 +104,7 @@
       "description": "A web page retrieves data From fake API using Vue.js framework",
       "skills": ["Vue.js", "JavaScript", "API", "CSS", "HTML"],
       "url": "https://apiplaceholder-vue-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/apiplaceholder-vue.jpeg"
+      "image": "../../src/assets/images/portfolio/apiplaceholder-vue.jpeg"
     },
     {
       "id": 10,
@@ -112,7 +112,7 @@
       "description": "A web app displays different questions from fake API with multiple-choice answers.",
       "skills": ["React", "JavaScript", "API", "CSS", "HTML"],
       "url": "https://quizzical-app-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/quizzical-app.jpeg"
+      "image": "../../src/assets/images/portfolio/quizzical-app.jpeg"
     },
     {
       "id": 11,
@@ -120,7 +120,7 @@
       "description": "A web app to convert currency between different countries.",
       "skills": ["JavaScript", "API", "CSS", "HTML"],
       "url": "https://currency-converter-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/currency-converter.jpeg"
+      "image": "../../src/assets/images/portfolio/currency-converter.jpeg"
     },
     {
       "id": 12,
@@ -128,7 +128,7 @@
       "description": "A web game about guessing the right letters to construct the required word",
       "skills": ["JavaScript", "CSS", "HTML"],
       "url": "https://tarekelkanaria.github.io/frontend-practices/hangman-game/index.html",
-      "image": "../assets/images/portfolio/hangman-game.jpeg"
+      "image": "../../src/assets/images/portfolio/hangman-game.jpeg"
     },
     {
       "id": 13,
@@ -136,7 +136,7 @@
       "description": "A web timer to calculate the spent time in work and in break ",
       "skills": ["JavaScript", "CSS", "HTML"],
       "url": "https://tarekelkanaria.github.io/frontend-practices/pomodoro-timer/index.html",
-      "image": "../assets/images/portfolio/pomodoro-timer.jpeg"
+      "image": "../../src/assets/images/portfolio/pomodoro-timer.jpeg"
     },
     {
       "id": 14,
@@ -144,7 +144,7 @@
       "description": "Validating forms in React.",
       "skills": ["React", "JavaScript", "CSS", "HTML"],
       "url": "https://form-validation-elkanaria.netlify.app/",
-      "image": "../assets/images/portfolio/form-validation.jpeg"
+      "image": "../../src/assets/images/portfolio/form-validation.jpeg"
     }
   ],
   "certificates": [
@@ -157,7 +157,7 @@
         " Frontend Web Development Technologies"
       ],
       "url": "https://drive.google.com/file/d/1cBfegYqrbau-pBEaKv2qSpgFZLa5vPr4/view",
-      "image": "../assets/images/portfolio/front-end-development-iti.jpg"
+      "image": "../../src/assets/images/portfolio/front-end-development-iti.jpg"
     },
     {
       "id": 2,
@@ -165,7 +165,7 @@
       "description": "Advanced React",
       "skills": ["React", "Jest", "Chakra UI", "Formik"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/AMDXJX94C488",
-      "image": "../assets/images/portfolio/advanced-react-meta-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/advanced-react-meta-coursera.jpeg"
     },
     {
       "id": 3,
@@ -180,7 +180,7 @@
         "Jasmine"
       ],
       "url": "https://graduation.udacity.com/confirm/NQVAWDER",
-      "image": "../assets/images/portfolio/advanced-full-stack-udacity.jpeg"
+      "image": "../../src/assets/images/portfolio/advanced-full-stack-udacity.jpeg"
     },
     {
       "id": 4,
@@ -188,7 +188,7 @@
       "description": "React Basics",
       "skills": ["React", "context API", "custom hooks"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/XUBLV3SYTD2M",
-      "image": "../assets/images/portfolio/react-basics-meta-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/react-basics-meta-coursera.jpeg"
     },
     {
       "id": 5,
@@ -196,7 +196,7 @@
       "description": "HTML and CSS in depth",
       "skills": ["HTML5", "CSS3"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/4HCZDAZNQ56F",
-      "image": "../assets/images/portfolio/html-and-css-in-depth-meta-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/html-and-css-in-depth-meta-coursera.jpeg"
     },
     {
       "id": 6,
@@ -204,7 +204,7 @@
       "description": "Programming with JavaScript",
       "skills": ["JavaScript"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/EJGTFL29UTZ9",
-      "image": "../assets/images/portfolio/programming-with-javascript-meta-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/programming-with-javascript-meta-coursera.jpeg"
     },
     {
       "id": 7,
@@ -212,7 +212,7 @@
       "description": "Version Control",
       "skills": ["Git", "Github"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/DVYUE34X6XRL",
-      "image": "../assets/images/portfolio/version-control-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/version-control-coursera.jpeg"
     },
     {
       "id": 8,
@@ -220,7 +220,7 @@
       "description": "Introduction to Front-End Development",
       "skills": ["Frontend Web Development"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/47YBTBMNTMAY",
-      "image": "../assets/images/portfolio/introduction-to-front-end-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/introduction-to-front-end-coursera.jpeg"
     },
     {
       "id": 9,
@@ -228,7 +228,7 @@
       "description": "Database Fundamentals course",
       "skills": ["database"],
       "url": "https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1",
-      "image": "../assets/images/portfolio/database-mahara-tech.jpeg"
+      "image": "../../src/assets/images/portfolio/database-mahara-tech.jpeg"
     },
     {
       "id": 10,
@@ -236,7 +236,7 @@
       "description": "JavaScript course",
       "skills": ["JavaScript"],
       "url": "https://maharatech.gov.eg/mod/customcert/view.php?id=7660&downloadown=1",
-      "image": "../assets/images/portfolio/javascript-mahara-tech.jpeg"
+      "image": "../../src/assets/images/portfolio/javascript-mahara-tech.jpeg"
     },
     {
       "id": 11,
@@ -244,7 +244,7 @@
       "description": "HTML and CSS course",
       "skills": ["HTML", "CSS"],
       "url": "https://maharatech.gov.eg/mod/customcert/view.php?id=1404&downloadown=1",
-      "image": "../assets/images/portfolio/html-and-css-mahara-tech.jpeg"
+      "image": "../../src/assets/images/portfolio/html-and-css-mahara-tech.jpeg"
     },
     {
       "id": 12,
@@ -252,7 +252,7 @@
       "description": "5 courses as introduction to programming with Python",
       "skills": ["Python"],
       "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/EBLFQADB29EZ",
-      "image": "../assets/images/portfolio/python-for-everybody-coursera.jpeg"
+      "image": "../../src/assets/images/portfolio/python-for-everybody-coursera.jpeg"
     },
     {
       "id": 13,
@@ -260,7 +260,7 @@
       "description": "Professional Front-End Web Development Nanodegree Program",
       "skills": ["JavaScript", "HTML5", "CSS3"],
       "url": "https://graduation.udacity.com/confirm/YQGGFKNU",
-      "image": "../assets/images/portfolio/professional-web-development-udacity.jpeg"
+      "image": "../../src/assets/images/portfolio/professional-web-development-udacity.jpeg"
     }
   ]
 }
