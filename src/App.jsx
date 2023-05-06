@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
+import NotFound from './pages/NotFound';
 import './App.scss';
 
 function App() {
@@ -18,7 +19,9 @@ function App() {
           element={<Portfolio certificates={true} />}
         />
         <Route path="contact" element={<Contact />} />
+        <Route path="*" element={<NotFound />} />
       </Route>
+      <Route path="*" element={<NotFound />} />
     </Routes>
   );
 }
