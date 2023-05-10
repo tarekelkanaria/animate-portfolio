@@ -6,6 +6,7 @@ import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import NotFound from './pages/NotFound';
 import './App.scss';
+import Certificates from './pages/Certificates';
 
 function App() {
   return (
@@ -14,10 +15,7 @@ function App() {
         <Route index element={<Home />} end />
         <Route path="about" element={<About />} />
         <Route path="portfolio" element={<Portfolio certificates={false} />} />
-        <Route
-          path="certificates"
-          element={<Portfolio certificates={true} />}
-        />
+        <Route path="certificates" element={<Certificates />} />
         <Route path="contact" element={<Contact />} />
         <Route path="*" element={<NotFound />} />
       </Route>
