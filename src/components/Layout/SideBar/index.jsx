@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import {
   FaBars,
@@ -14,7 +15,6 @@ import { GrClose, GrCertificate } from 'react-icons/gr';
 import logo from '../../../assets/images/logo-k.png';
 import logoSubtitle from '../../../assets/images/logok-sub.png';
 import './index.scss';
-import { useState } from 'react';
 
 const SideBar = () => {
   const [showNav, setShowNav] = useState(false);

@@ -1,5 +1,5 @@
-import './index.scss';
 import notFoundIcon from '../../assets/images/page_not_found.svg';
+import './index.scss';
 
 const NotFound = () => {
   return (

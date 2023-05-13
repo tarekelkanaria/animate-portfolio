@@ -5,8 +5,8 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Portfolio from './pages/Portfolio';
 import NotFound from './pages/NotFound';
-import './App.scss';
 import Certificates from './pages/Certificates';
+import './App.scss';
 
 function App() {
   return (
