@@ -43,8 +43,7 @@ const About = () => {
           </p>
           <p>
             My great ambition is to provide people with creative techniques that
-            could make their life easier. looking for a role as a Front-End
-            Developer.
+            could make their life easier.
           </p>
         </div>
         <AboutCube />
