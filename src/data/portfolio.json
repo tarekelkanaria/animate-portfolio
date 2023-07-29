@@ -36,6 +36,71 @@
   "previous-works": [
     {
       "id": 1,
+      "title": "IMDb Clone",
+      "description": "An online web app retrieves data from a database for information related to movies.",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Next.js13",
+        "TailwindCSS",
+        "Next Themes",
+        "React Icons"
+      ],
+      "url": "https://imdb-clone-elkanaria.vercel.app/",
+      "image": "/portfolio-assets/imdb-clone.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Pagination React",
+      "description": "A Web page retrieves data from fake API with Pagination function and optimized search functionality.",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "TailwindCSS",
+        "React Query",
+        "Axios",
+        "React Icons",
+        "React Spinners"
+      ],
+      "url": "https://react-paginate-elkanaria.netlify.app/",
+      "image": "/portfolio-assets/react-paginate.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Classic Todo",
+      "description": "A classic todo app to manage daily tasks whether it's completed or in progress with edit and remove functionality. The app stores the tasks in local storage so you can visit it at any time to modify it, update it, or delete it.",
+      "skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Context API",
+        "React Transition Group"
+      ],
+      "url": "https://classic-todo-elkanaria.netlify.app/",
+      "image": "/portfolio-assets/classic-todo.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Hotels Booking",
+      "description": "A Front End web app for hotels reservations using Vue.js Framework and Vite as a build tool.",
+      "skills": [
+        "Vue.js",
+        "Pinia",
+        "TypeScript",
+        "Vue Router",
+        "Sass",
+        "Vue Material Design Icons",
+        "Autoprefixer"
+      ],
+      "url": "https://elkanaria-hotels-booking.netlify.app",
+      "image": "/portfolio-assets/hotels-booking.png"
+    },
+    {
+      "id": 5,
       "title": "Meetups",
       "description": "A web app allows users to add meetup data and save it in a database using Next.js and MongoDB",
       "skills": ["Next.js", "React", "MongoDB", "JavaScript", "CSS"],
@@ -43,7 +108,7 @@
       "image": "/portfolio-assets/meetups.jpeg"
     },
     {
-      "id": 2,
+      "id": 6,
       "title": "Food Order",
       "description": "A web app displays some of the existing meals through Firebase real-time database and the user can order any count of meals with cart functionality and save his purchases to the cart database.",
       "skills": ["React", "JavaScript", "CSS", "Bootstrap", "Firebase"],
@@ -51,15 +116,7 @@
       "image": "/portfolio-assets/food-order.jpeg"
     },
     {
-      "id": 3,
-      "title": "React Paginate",
-      "description": "A Web page retrieves data from fake API with Pagination function and optimized search functionality.",
-      "skills": ["React", "JavaScript", "CSS", "Bootstrap", "API", "HTML"],
-      "url": "https://react-paginate-elkanaria.netlify.app/",
-      "image": "/portfolio-assets/react-paginate.jpeg"
-    },
-    {
-      "id": 4,
+      "id": 7,
       "title": "Tasks App",
       "description": "A web app uses a valid form to save the text of the task in Firebase real-time database and the user can add, update or delete the task.",
       "skills": ["React", "JavaScript", "CSS", "Firebase", "HTML"],
@@ -67,7 +124,7 @@
       "image": "/portfolio-assets/tasks-app.jpeg"
     },
     {
-      "id": 5,
+      "id": 8,
       "title": "Random Users",
       "description": "A web page displays a list of users using fake API with the ability to search through the list by name.",
       "skills": ["React", "JavaScript", "CSS", "API", "HTML"],
@@ -75,7 +132,7 @@
       "image": "/portfolio-assets/random-users.jpeg"
     },
     {
-      "id": 6,
+      "id": 9,
       "title": "Expenses Tracker",
       "description": "A web app to track all the expenses along with date starting form 1/1/2020 and store it in the app with chart bars.",
       "skills": ["React", "JavaScript", "CSS", "HTML"],
@@ -83,7 +140,7 @@
       "image": "/portfolio-assets/expenses-tracker.jpeg"
     },
     {
-      "id": 7,
+      "id": 10,
       "title": "Movies List",
       "description": "A web app uses a valid form to save the data of movies in Firebase real-time database and the user can add, update or delete the movie.",
       "skills": ["React", "JavaScript", "Bootstrap", "Firebase", "CSS", "HTML"],
@@ -91,7 +148,7 @@
       "image": "/portfolio-assets/movies-list.jpeg"
     },
     {
-      "id": 8,
+      "id": 11,
       "title": "Landing page vue",
       "description": "A web landing page using Vue.js framework with scroll and route functionality.",
       "skills": ["Vue.js", "JavaScript", "CSS", "HTML"],
@@ -99,7 +156,7 @@
       "image": "/portfolio-assets/landing-page-vue.jpeg"
     },
     {
-      "id": 9,
+      "id": 12,
       "title": "API Vue",
       "description": "A web page retrieves data From fake API using Vue.js framework",
       "skills": ["Vue.js", "JavaScript", "API", "CSS", "HTML"],
@@ -107,7 +164,7 @@
       "image": "/portfolio-assets/apiplaceholder-vue.jpeg"
     },
     {
-      "id": 10,
+      "id": 13,
       "title": "Quizzical App",
       "description": "A web app displays different questions from fake API with multiple-choice answers.",
       "skills": ["React", "JavaScript", "API", "CSS", "HTML"],
@@ -115,7 +172,7 @@
       "image": "/portfolio-assets/quizzical-app.jpeg"
     },
     {
-      "id": 11,
+      "id": 14,
       "title": "Currency Converter",
       "description": "A web app to convert currency between different countries.",
       "skills": ["JavaScript", "API", "CSS", "HTML"],
@@ -123,7 +180,7 @@
       "image": "/portfolio-assets/currency-converter.jpeg"
     },
     {
-      "id": 12,
+      "id": 15,
       "title": "Hangman Game",
       "description": "A web game about guessing the right letters to construct the required word",
       "skills": ["JavaScript", "CSS", "HTML"],
@@ -131,7 +188,7 @@
       "image": "/portfolio-assets/hangman-game.jpeg"
     },
     {
-      "id": 13,
+      "id": 16,
       "title": "Pomodoro Timer",
       "description": "A web timer to calculate the spent time in work and in break ",
       "skills": ["JavaScript", "CSS", "HTML"],
@@ -139,7 +196,7 @@
       "image": "/portfolio-assets/pomodoro-timer.jpeg"
     },
     {
-      "id": 14,
+      "id": 17,
       "title": "Form Validation",
       "description": "Validating forms in React.",
       "skills": ["React", "JavaScript", "CSS", "HTML"],

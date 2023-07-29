@@ -27,19 +27,19 @@ const About = () => {
           <p>
             A Passionate Front-End Developer who recently assembled projects in
             web development and web apps. graduated from Information Technology
-            Institute (ITI) and got certified by Udacity in web development.{' '}
+            Institute (ITI) and got certified by Udacity in web development.
           </p>
           <p>
             currently working as a freelancer at Upwork Platform. experienced in
             building dynamic web applications with a responsive design across
             all devices. skilled in HTML5, CSS3, JavaScript, Sass, Bootstrap,
-            and React. and have basic knowledge of python, C++, git, SQL, Figma,
-            and UI/UX design.{' '}
+            TailwindCSS React, Vue.js and Next.js. and have basic knowledge of
+            python, C++, git, SQL, Figma, and UI/UX design.
           </p>
           <p>
             Prior to that, I worked as a lawyer which allowed me to gain a
             problem-solving mindset. Interested in mastering programming and
-            eager to learn more in that changeable field.{' '}
+            eager to learn more in that changeable field.
           </p>
           <p>
             My great ambition is to provide people with creative techniques that
