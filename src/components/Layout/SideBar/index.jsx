@@ -8,9 +8,9 @@ import {
   FaHome,
   FaLinkedin,
   FaStackOverflow,
-  FaTwitter,
   FaUser,
 } from 'react-icons/fa';
+import { SiLeetcode } from 'react-icons/si';
 import { GrClose, GrCertificate } from 'react-icons/gr';
 import logo from '../../../assets/images/logo-k.png';
 import logoSubtitle from '../../../assets/images/logok-sub.png';
@@ -96,11 +96,11 @@ const SideBar = () => {
         </li>
         <li>
           <a
-            href="https://twitter.com/ElkanariaTarek"
+            href="https://leetcode.com/tarekelkanaria/"
             target="_blank"
             rel="noreferrer"
           >
-            <FaTwitter fontSize="2.5rem" />
+            <SiLeetcode fontSize="2.5rem" />
           </a>
         </li>
         <li>
