@@ -33,7 +33,7 @@ const About = () => {
             currently working as a freelancer at Upwork Platform. experienced in
             building dynamic web applications with a responsive design across
             all devices. skilled in HTML5, CSS3, JavaScript, Sass, Bootstrap,
-            TailwindCSS React, Vue.js and Next.js. and have basic knowledge of
+            TailwindCSS, React, Vue.js and Next.js. and have basic knowledge of
             python, C++, git, SQL, Figma, and UI/UX design.
           </p>
           <p>
