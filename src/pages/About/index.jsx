@@ -30,11 +30,11 @@ const About = () => {
             Institute (ITI) and got certified by Udacity in web development.
           </p>
           <p>
-            currently working as a freelancer at Upwork Platform. experienced in
-            building dynamic web applications with a responsive design across
-            all devices. skilled in HTML5, CSS3, JavaScript, Sass, Bootstrap,
-            TailwindCSS, React, Vue.js and Next.js. and have basic knowledge of
-            python, C++, git, SQL, Figma, and UI/UX design.
+            currently working as a Front-End Developer at POS Mission.
+            experienced in building dynamic web applications with a responsive
+            design across all devices. skilled in HTML5, CSS3, JavaScript, Sass,
+            Bootstrap, TailwindCSS, React, Vue.js and Next.js. and have basic
+            knowledge of python, C++, git, SQL, Figma, and UI/UX design.
           </p>
           <p>
             Prior to that, I worked as a lawyer which allowed me to gain a
