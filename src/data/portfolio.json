@@ -2,6 +2,14 @@
   "projects": [
     {
       "id": 1,
+      "title": "POS Mission website",
+      "description": "Home page for POS Mission Company",
+      "skills": ["React.js", "Next.js", "TailwindCSS"],
+      "url": "https://www.posmission.com",
+      "image": "/portfolio-assets/pos-mission.jpeg"
+    },
+    {
+      "id": 1,
       "title": "Amazon clone",
       "description": "Static E-commerce web page like amazon homepage",
       "skills": ["HTML5", "CSS3"],
