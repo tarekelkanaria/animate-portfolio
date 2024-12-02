@@ -2,14 +2,36 @@
   "projects": [
     {
       "id": 1,
+      "title": "Betting-X",
+      "description": "Full-Stack website for betting company, with authentication, withdraw, and deposit system",
+      "skills": [
+        "React.js",
+        "Next.js",
+        "Material UI",
+        "MongoDB",
+        "Prisma",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "url": "https://betting-x.vercel.app/",
+      "image": "/portfolio-assets/1xbet.jpeg"
+    },
+    {
+      "id": 2,
       "title": "POS Mission website",
       "description": "Home page for POS Mission Company",
-      "skills": ["React.js", "Next.js", "TailwindCSS"],
+      "skills": [
+        "React.js",
+        "Next.js",
+        "TailwindCSS",
+        "JavaScript",
+        "TypeScript"
+      ],
       "url": "https://www.posmission.com",
       "image": "/portfolio-assets/pos-mission.jpeg"
     },
     {
-      "id": 1,
+      "id": 3,
       "title": "Amazon clone",
       "description": "Static E-commerce web page like amazon homepage",
       "skills": ["HTML5", "CSS3"],
@@ -17,7 +39,7 @@
       "image": "/portfolio-assets/amazon-clone.jpeg"
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Bet365 clone",
       "description": "Static web page like bet365 homepage",
       "skills": ["HTML5", "CSS3"],
@@ -25,7 +47,7 @@
       "image": "/portfolio-assets/bet365.jpeg"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "1xBet clone",
       "description": "Static web page like 1xbet homepage",
       "skills": ["HTML5", "CSS3"],
@@ -33,7 +55,7 @@
       "image": "/portfolio-assets/1xbet.jpeg"
     },
     {
-      "id": 4,
+      "id": 6,
       "title": "Roblox clone",
       "description": "Static web page like roblox homepage",
       "skills": ["HTML5", "CSS3"],
