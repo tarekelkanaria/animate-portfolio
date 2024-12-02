@@ -14,7 +14,7 @@
         "JavaScript"
       ],
       "url": "https://betting-x.vercel.app/",
-      "image": "/portfolio-assets/1xbet.jpeg"
+      "image": "/portfolio-assets/betting-x.jpeg"
     },
     {
       "id": 2,
@@ -48,14 +48,6 @@
     },
     {
       "id": 5,
-      "title": "1xBet clone",
-      "description": "Static web page like 1xbet homepage",
-      "skills": ["HTML5", "CSS3"],
-      "url": "https://tarekelkanaria.github.io/1xbet-page/",
-      "image": "/portfolio-assets/1xbet.jpeg"
-    },
-    {
-      "id": 6,
       "title": "Roblox clone",
       "description": "Static web page like roblox homepage",
       "skills": ["HTML5", "CSS3"],
