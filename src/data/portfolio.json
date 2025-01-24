@@ -2,6 +2,23 @@
   "projects": [
     {
       "id": 1,
+      "title": "Wicket",
+      "description": "Full-Stack platform for betting, with authentication system",
+      "skills": [
+        "React.js",
+        "Next.js",
+        "Material UI",
+        "CSS",
+        "MongoDB",
+        "Prisma",
+        "TypeScript",
+        "JavaScript"
+      ],
+      "url": "https://wicket-ten.vercel.app/",
+      "image": "/portfolio-assets/wicket.jpeg"
+    },
+    {
+      "id": 2,
       "title": "Betting-X",
       "description": "Full-Stack website for betting company, with authentication, withdraw, and deposit system",
       "skills": [
@@ -17,7 +34,7 @@
       "image": "/portfolio-assets/betting-x.jpeg"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "POS Mission website",
       "description": "Home page for POS Mission Company",
       "skills": [
@@ -31,7 +48,7 @@
       "image": "/portfolio-assets/pos-mission.jpeg"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Amazon clone",
       "description": "Static E-commerce web page like amazon homepage",
       "skills": ["HTML5", "CSS3"],
@@ -39,7 +56,7 @@
       "image": "/portfolio-assets/amazon-clone.jpeg"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Bet365 clone",
       "description": "Static web page like bet365 homepage",
       "skills": ["HTML5", "CSS3"],
@@ -47,7 +64,7 @@
       "image": "/portfolio-assets/bet365.jpeg"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Roblox clone",
       "description": "Static web page like roblox homepage",
       "skills": ["HTML5", "CSS3"],
@@ -58,6 +75,92 @@
   "previous-works": [
     {
       "id": 1,
+      "title": "Entertab task",
+      "description": "Front-end design for Entertab website landing page with contact form",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Next.js",
+        "TailwindCSS",
+        "CSS",
+        "Zustand",
+        "React hook form"
+      ],
+      "url": "https://entertab-task.vercel.app/",
+      "image": "/portfolio-assets/entertab.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Nqoodlet task",
+      "description": "Front-end design for bank cards with controls to manage their state",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Next.js",
+        "TailwindCSS",
+        "CSS",
+        "React redux",
+        "Redux toolkit"
+      ],
+      "url": "https://nqoodlet-task.vercel.app/",
+      "image": "/portfolio-assets/nqoodlet.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Cyparta task",
+      "description": "Front-end design for login system and profile page",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Next.js",
+        "TailwindCSS",
+        "CSS",
+        "React hook form"
+      ],
+      "url": "https://cyparta-task-elkanaria.vercel.app/",
+      "image": "/portfolio-assets/cyparta.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Twitter clone",
+      "description": "Social media app like twitter to share your ideas and images with the community, only for learning purposes",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Next.js",
+        "TailwindCSS",
+        "CSS",
+        "React redux",
+        "Redux toolkit",
+        "Firebase"
+      ],
+      "url": "https://twitter-clone-elkanaria.vercel.app/",
+      "image": "/portfolio-assets/twitter-clone.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Excel sheet",
+      "description": "Dynamic excel sheet for managing data",
+      "skills": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Next.js",
+        "TailwindCSS",
+        "CSS",
+        "React redux",
+        "Redux toolkit",
+        "React table"
+      ],
+      "url": "https://excel-sheet-elkanaria.vercel.app/",
+      "image": "/portfolio-assets/excel-sheet.jpeg"
+    },
+    {
+      "id": 6,
       "title": "Instagram  Clone",
       "description": "Instagram clone app for sharing your best moments with your lovely people.",
       "skills": [
@@ -66,6 +169,7 @@
         "TypeScript",
         "Next.js13",
         "TailwindCSS",
+        "CSS",
         "React redux",
         "Redux toolkit"
       ],
@@ -73,7 +177,7 @@
       "image": "/portfolio-assets/instagram-clone.jpeg"
     },
     {
-      "id": 2,
+      "id": 7,
       "title": "Google  Clone",
       "description": "A search engine can search the web for text or images or by user's voice.",
       "skills": [
@@ -89,7 +193,7 @@
       "image": "/portfolio-assets/google-clone.jpeg"
     },
     {
-      "id": 3,
+      "id": 8,
       "title": "IMDb Clone",
       "description": "An online web app retrieves data from a database for information related to movies.",
       "skills": [
@@ -105,7 +209,7 @@
       "image": "/portfolio-assets/imdb-clone.jpeg"
     },
     {
-      "id": 4,
+      "id": 9,
       "title": "Pagination React",
       "description": "A Web page retrieves data from fake API with Pagination function and optimized search functionality.",
       "skills": [
@@ -122,7 +226,7 @@
       "image": "/portfolio-assets/react-paginate.jpeg"
     },
     {
-      "id": 5,
+      "id": 10,
       "title": "Classic Todo",
       "description": "A classic todo app to manage daily tasks whether it's completed or in progress with edit and remove functionality. The app stores the tasks in local storage so you can visit it at any time to modify it, update it, or delete it.",
       "skills": [
@@ -138,7 +242,7 @@
       "image": "/portfolio-assets/classic-todo.jpeg"
     },
     {
-      "id": 6,
+      "id": 11,
       "title": "Hotels Booking",
       "description": "A Front End web app for hotels reservations using Vue.js Framework and Vite as a build tool.",
       "skills": [
@@ -154,7 +258,7 @@
       "image": "/portfolio-assets/hotels-booking.png"
     },
     {
-      "id": 7,
+      "id": 12,
       "title": "Meetups",
       "description": "A web app allows users to add meetup data and save it in a database using Next.js and MongoDB",
       "skills": ["Next.js", "React", "MongoDB", "JavaScript", "CSS"],
@@ -162,7 +266,7 @@
       "image": "/portfolio-assets/meetups.jpeg"
     },
     {
-      "id": 8,
+      "id": 13,
       "title": "Food Order",
       "description": "A web app displays some of the existing meals through Firebase real-time database and the user can order any count of meals with cart functionality and save his purchases to the cart database.",
       "skills": ["React", "JavaScript", "CSS", "Bootstrap", "Firebase"],
@@ -170,7 +274,7 @@
       "image": "/portfolio-assets/food-order.jpeg"
     },
     {
-      "id": 9,
+      "id": 14,
       "title": "Tasks App",
       "description": "A web app uses a valid form to save the text of the task in Firebase real-time database and the user can add, update or delete the task.",
       "skills": ["React", "JavaScript", "CSS", "Firebase", "HTML"],
@@ -178,7 +282,7 @@
       "image": "/portfolio-assets/tasks-app.jpeg"
     },
     {
-      "id": 10,
+      "id": 15,
       "title": "Random Users",
       "description": "A web page displays a list of users using fake API with the ability to search through the list by name.",
       "skills": ["React", "JavaScript", "CSS", "API", "HTML"],
@@ -186,7 +290,7 @@
       "image": "/portfolio-assets/random-users.jpeg"
     },
     {
-      "id": 11,
+      "id": 16,
       "title": "Expenses Tracker",
       "description": "A web app to track all the expenses along with date starting form 1/1/2020 and store it in the app with chart bars.",
       "skills": ["React", "JavaScript", "CSS", "HTML"],
@@ -194,7 +298,7 @@
       "image": "/portfolio-assets/expenses-tracker.jpeg"
     },
     {
-      "id": 12,
+      "id": 17,
       "title": "Movies List",
       "description": "A web app uses a valid form to save the data of movies in Firebase real-time database and the user can add, update or delete the movie.",
       "skills": ["React", "JavaScript", "Bootstrap", "Firebase", "CSS", "HTML"],
@@ -202,7 +306,7 @@
       "image": "/portfolio-assets/movies-list.jpeg"
     },
     {
-      "id": 13,
+      "id": 18,
       "title": "Landing page vue",
       "description": "A web landing page using Vue.js framework with scroll and route functionality.",
       "skills": ["Vue.js", "JavaScript", "CSS", "HTML"],
@@ -210,7 +314,7 @@
       "image": "/portfolio-assets/landing-page-vue.jpeg"
     },
     {
-      "id": 14,
+      "id": 19,
       "title": "API Vue",
       "description": "A web page retrieves data From fake API using Vue.js framework",
       "skills": ["Vue.js", "JavaScript", "API", "CSS", "HTML"],
@@ -218,7 +322,7 @@
       "image": "/portfolio-assets/apiplaceholder-vue.jpeg"
     },
     {
-      "id": 15,
+      "id": 20,
       "title": "Quizzical App",
       "description": "A web app displays different questions from fake API with multiple-choice answers.",
       "skills": ["React", "JavaScript", "API", "CSS", "HTML"],
@@ -226,7 +330,7 @@
       "image": "/portfolio-assets/quizzical-app.jpeg"
     },
     {
-      "id": 16,
+      "id": 21,
       "title": "Currency Converter",
       "description": "A web app to convert currency between different countries.",
       "skills": ["JavaScript", "API", "CSS", "HTML"],
@@ -234,7 +338,7 @@
       "image": "/portfolio-assets/currency-converter.jpeg"
     },
     {
-      "id": 17,
+      "id": 22,
       "title": "Hangman Game",
       "description": "A web game about guessing the right letters to construct the required word",
       "skills": ["JavaScript", "CSS", "HTML"],
@@ -242,7 +346,7 @@
       "image": "/portfolio-assets/hangman-game.jpeg"
     },
     {
-      "id": 18,
+      "id": 23,
       "title": "Pomodoro Timer",
       "description": "A web timer to calculate the spent time in work and in break ",
       "skills": ["JavaScript", "CSS", "HTML"],
@@ -250,7 +354,7 @@
       "image": "/portfolio-assets/pomodoro-timer.jpeg"
     },
     {
-      "id": 19,
+      "id": 24,
       "title": "Form Validation",
       "description": "Validating forms in React.",
       "skills": ["React", "JavaScript", "CSS", "HTML"],
