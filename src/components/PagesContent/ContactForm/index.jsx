@@ -36,10 +36,10 @@ const ContactForm = () => {
           setSubmitting(true);
           emailjs
             .sendForm(
-              'contact_service',
+              'contact-test',
               'contact_form',
               formRef.current,
-              'pZyFjOeZ3_r_Z92gY'
+              'ALgp5jrnHn7e5S5s_'
             )
             .then(
               () => {
