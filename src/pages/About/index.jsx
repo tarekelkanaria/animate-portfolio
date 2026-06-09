@@ -25,26 +25,15 @@ const About = () => {
             />
           </h1>
           <p>
-            A Passionate Front-End Developer who recently assembled projects in
-            web development and web apps. graduated from Information Technology
-            Institute (ITI) and got certified by Udacity in web development.
+           A Passionate Software Developer with 4+ years of experience in building dynamic web applications with a responsive design. 
           </p>
           <p>
-            currently working as a Front-End Developer at POS Mission.
-            experienced in building dynamic web applications with a responsive
-            design across all devices. skilled in HTML5, CSS3, JavaScript, Sass,
-            Bootstrap, TailwindCSS, React, Vue.js and Next.js. and have basic
-            knowledge of python, C++, git, SQL, Figma, and UI/UX design.
+            Graduated from the Information Technology Institute (ITI) and currently working as a freelancer. 
           </p>
           <p>
-            Prior to that, I worked as a lawyer which allowed me to gain a
-            problem-solving mindset. Interested in mastering programming and
-            eager to learn more in that changeable field.
+            My great ambition is to provide people with creative techniques that could make their lives easier.
           </p>
-          <p>
-            My great ambition is to provide people with creative techniques that
-            could make their life easier.
-          </p>
+         
         </div>
         <AboutCube />
       </article>
