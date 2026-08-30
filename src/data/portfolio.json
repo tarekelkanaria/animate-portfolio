@@ -425,14 +425,48 @@
     },
     {
       "id": 2,
-      "title": "Meta Front-End Developer - Coursera",
-      "description": "Advanced React",
-      "skills": ["React", "Jest", "Chakra UI", "Formik"],
-      "url": "https://www.coursera.org/account/accomplishments/certificate/AMDXJX94C488",
-      "image": "/portfolio-assets/advanced-react-meta-coursera.jpeg"
+      "title": "AWS Certified Cloud Practitioner",
+      "description": "Cloud Practitioner",
+      "skills": [
+        "Cloud Concepts",
+        "Security and Compliance",
+        "Cloud Technology and Services",
+        "Billing, Pricing, and Support"
+      ],
+      "url": "https://drive.google.com/file/d/1PgyfCIjqEqcg98ech59YaxPxA9ZGROS-/view",
+      "image": "/portfolio-assets/aws-certified-cloud-practitioner-certificate.jpg"
     },
     {
       "id": 3,
+      "title": "IBM Full Stack Software Developer Specialization",
+      "description": "Full Stack Software Developelopment",
+      "skills": [
+        "Software Engineering",
+        "Cloud computing",
+        "Front-end",
+        "Back-end",
+        "DevOps"
+      ],
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/9EXWMR3E36J3",
+      "image": "/portfolio-assets/ibm-full-stack-software-developer-specialization.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Meta Front-End Developer Professional Certificate",
+      "description": "Front-End Development",
+      "skills": [
+        "Programming with JavaScript",
+        "Version Control",
+        "HTML and CSS in depth",
+        "React Basics",
+        "Advanced React",
+        "UX/UI Design"
+      ],
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/92HH35K3WI32",
+      "image": "/portfolio-assets/meta-front-end-developer-professional-certificate.jpg"
+    },
+    {
+      "id": 5,
       "title": "Advanced Web Development - Udacity",
       "description": "Advanced Full-Stack Web Development Nanodegree Program",
       "skills": [
@@ -446,48 +480,9 @@
       "url": "https://graduation.udacity.com/confirm/NQVAWDER",
       "image": "/portfolio-assets/advanced-full-stack-udacity.jpeg"
     },
-    {
-      "id": 4,
-      "title": "Meta Front-End Developer - Coursera",
-      "description": "React Basics",
-      "skills": ["React", "context API", "custom hooks"],
-      "url": "https://www.coursera.org/account/accomplishments/certificate/XUBLV3SYTD2M",
-      "image": "/portfolio-assets/react-basics-meta-coursera.jpeg"
-    },
-    {
-      "id": 5,
-      "title": "Meta Front-End Developer - Coursera",
-      "description": "HTML and CSS in depth",
-      "skills": ["HTML5", "CSS3"],
-      "url": "https://www.coursera.org/account/accomplishments/certificate/4HCZDAZNQ56F",
-      "image": "/portfolio-assets/html-and-css-in-depth-meta-coursera.jpeg"
-    },
+
     {
       "id": 6,
-      "title": "Meta Front-End Developer - Coursera",
-      "description": "Programming with JavaScript",
-      "skills": ["JavaScript"],
-      "url": "https://www.coursera.org/account/accomplishments/certificate/EJGTFL29UTZ9",
-      "image": "/portfolio-assets/programming-with-javascript-meta-coursera.jpeg"
-    },
-    {
-      "id": 7,
-      "title": "Meta Front-End Developer - Coursera",
-      "description": "Version Control",
-      "skills": ["Git", "Github"],
-      "url": "https://www.coursera.org/account/accomplishments/certificate/DVYUE34X6XRL",
-      "image": "/portfolio-assets/version-control-coursera.jpeg"
-    },
-    {
-      "id": 8,
-      "title": "Meta Front-End Developer - Coursera",
-      "description": "Introduction to Front-End Development",
-      "skills": ["Frontend Web Development"],
-      "url": "https://www.coursera.org/account/accomplishments/certificate/47YBTBMNTMAY",
-      "image": "/portfolio-assets/introduction-to-front-end-coursera.jpeg"
-    },
-    {
-      "id": 9,
       "title": "Mahara - Tech",
       "description": "Database Fundamentals course",
       "skills": ["database"],
@@ -495,7 +490,7 @@
       "image": "/portfolio-assets/database-mahara-tech.jpeg"
     },
     {
-      "id": 10,
+      "id": 7,
       "title": "Mahara - Tech",
       "description": "JavaScript course",
       "skills": ["JavaScript"],
@@ -503,7 +498,7 @@
       "image": "/portfolio-assets/javascript-mahara-tech.jpeg"
     },
     {
-      "id": 11,
+      "id": 8,
       "title": "Mahara - Tech",
       "description": "HTML and CSS course",
       "skills": ["HTML", "CSS"],
@@ -511,7 +506,7 @@
       "image": "/portfolio-assets/html-and-css-mahara-tech.jpeg"
     },
     {
-      "id": 12,
+      "id": 9,
       "title": "Python for Everybody Specialization - Coursera",
       "description": "5 courses as introduction to programming with Python",
       "skills": ["Python"],
@@ -519,7 +514,7 @@
       "image": "/portfolio-assets/python-for-everybody-coursera.jpeg"
     },
     {
-      "id": 13,
+      "id": 10,
       "title": "Professional Web Development - Udacity",
       "description": "Professional Front-End Web Development Nanodegree Program",
       "skills": ["JavaScript", "HTML5", "CSS3"],
