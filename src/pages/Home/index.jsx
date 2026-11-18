@@ -37,11 +37,11 @@ const Home = () => {
             <br />
             <AnimatedLetters
               letterClass={letterClass}
-              strArr={'web developer.'.split('')}
+              strArr={'Software developer.'.split('')}
               idx={21}
             />
           </h1>
-          <h2>Front End Developer | JavaScript Developer</h2>
+          <h2>Full Stack Developer</h2>
           <Link to="/contact" className="flat-btn">
             Contact Me
           </Link>
