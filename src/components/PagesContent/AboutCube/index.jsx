@@ -1,11 +1,6 @@
-import {
-  FaCss3,
-  FaGitAlt,
-  FaHtml5,
-  FaJsSquare,
-  FaReact,
-  FaSass,
-} from 'react-icons/fa';
+import { FaCss3, FaGitAlt, FaJsSquare, FaReact, FaNode } from 'react-icons/fa';
+import { SiMongodb } from 'react-icons/si';
+
 import './index.scss';
 
 const AboutCube = () => {
@@ -13,10 +8,10 @@ const AboutCube = () => {
     <div className="cube-container">
       <div className="cube-spinner">
         <div className="face-1">
-          <FaSass color="#dd0031" />
+          <FaNode color="#404137" />
         </div>
         <div className="face-2">
-          <FaHtml5 color="#f06529" />
+          <SiMongodb color="#12924f" />
         </div>
         <div className="face-3">
           <FaCss3 color="#28a4d9" />

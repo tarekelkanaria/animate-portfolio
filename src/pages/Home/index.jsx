@@ -38,7 +38,7 @@ const Home = () => {
             <AnimatedLetters
               letterClass={letterClass}
               strArr={'Software developer.'.split('')}
-              idx={21}
+              idx={17}
             />
           </h1>
           <h2>Full Stack Developer</h2>
