@@ -39,7 +39,7 @@ const About = () => {
           </p>
           <p>
             Track record of delivering high-performance user interfaces,
-            RESTful/GraphQL APIs, and automated predictive decision engines.
+            RESTful/GraphQL APIs.
           </p>
         </div>
         <AboutCube />
